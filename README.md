@@ -1,24 +1,30 @@
 # 👋 Hey, I'm Boss Jio  
-🐍 Python Developer | ⚛️ React Frontend Dev | 🎨 3D Modeler | 🕹 Roblox Studio Creator  
+🐍 Python Developer | 🎨 3D Modeler | 🕹 Roblox Studio Game Dev  
 
 ---
 
 ## 🚀 About Me  
-- 🖥️ Passionate about coding in **Python** and building UIs with **React**  
-- 🎮 Creating immersive games & experiences in **Roblox Studio**  
-- 🎨 Designing and modeling assets in **Blender**  
-- 🌱 Always learning & leveling up  
+- 🖥️ Coding tools & scripts in **Python**  
+- 🎮 Creating immersive games & systems in **Roblox Studio**  
+- ⚔️ Designing **combat systems** & building **inventory + datastore systems** for Roblox games  
+- 🎨 Modeling & rendering 3D assets in **Blender**  
+- 🌱 Always learning & experimenting with new tech  
 
 ---
 
 ## 🔧 Tech Stack  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)  
 ![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)  
 ![Roblox](https://img.shields.io/badge/Roblox-000000?style=for-the-badge&logo=roblox&logoColor=white)  
 
 ---
 
 ## 🎨 Projects  
-- 🎮 **Roblox Games** – Building fun interactive worlds  
-- 🖼️ **3D Assets** – Models & renders made in Blender
+- ⚔️ **Combat Systems** – Roblox Studio scripting with Lua  
+- 🎒 **Inventory + Datastore Systems** – Save player progress and manage in-game items  
+- 🎮 **Roblox Games** – Fun, interactive experiences  
+- 🐍 **Python Scripts** – Automation & backend tools  
+
+---
+
+⭐️ *“Building worlds, systems, and experiences — one line of code at a time.”*
