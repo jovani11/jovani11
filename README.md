@@ -5,7 +5,7 @@
 
 ## 🚀 About Me  
 - 🖥️ Coding tools & scripts in **Python**
-- 🖥️Machine learning development 
+- 🖥️ Into Machine learning development 
 - 🎮 Creating immersive games & systems in **Roblox Studio**  
 - ⚔️ Designing **combat systems** & building **inventory + datastore systems** for Roblox games  
 - 🎨 Modeling & rendering 3D assets in **Blender**  
