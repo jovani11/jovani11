@@ -1,4 +1,4 @@
-# 👋 Hey, I'm Boss Jio  
+# 👋 Hey, Jiologist here!
 🐍 Python Developer | 🎨 3D Modeler | 🕹 Roblox Studio Game Dev  
 
 ---
